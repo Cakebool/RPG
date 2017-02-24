@@ -1,12 +1,8 @@
 <?php
 
-class Entity{
+abstract class Entity{
 
-    abstract function save{
+    abstract function save();
 
-    }
-
-    abstract function find{
-
-    }
+    abstract function find();
 }

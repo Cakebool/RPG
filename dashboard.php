@@ -17,7 +17,7 @@
     </div>
     <div class="row">
         <div class="col-md-4 col-md-offset-3">
-            <a href="#"><button class="btn btn-lg btn-success">creer</button></a>
+            <a href="hero/creation_hero.php"><button class="btn btn-lg btn-success">creer</button></a>
         </div>
         <div class="col-md-6"></div>
     </div>

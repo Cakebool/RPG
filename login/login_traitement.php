@@ -32,6 +32,6 @@ if (
     }
 }
 else{
-    header ('location: ../index.php');
+    header ('location: ../hero/creation_hero.php');
 
 }

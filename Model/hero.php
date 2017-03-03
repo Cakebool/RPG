@@ -208,7 +208,7 @@ class Hero extends Entity
             $h->setType(2);
             $h->setHp(70);
             $h->setDefense(1);
-            $h->setAttaque(60);
+            $h->setAttaque(10);
             $h->setVitesse(60);
             $h->setMagie(200);
 

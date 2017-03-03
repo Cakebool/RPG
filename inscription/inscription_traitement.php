@@ -33,7 +33,7 @@ if (
             )
         );
     }
-   header('Location: ../success.php');
+   header('Location: ../hero/create_hero.php');
 }else{
     echo" Error : this member already exists";
 }

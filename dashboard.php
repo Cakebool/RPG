@@ -27,6 +27,12 @@
             <h1>Creer un monstre</h1>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-4 col-md-offset-3">
+            <a href="monstre/creation_monstre.php"><button class="btn btn-lg btn-success">creer</button></a>
+        </div>
+        <div class="col-md-6"></div>
+    </div>
 
     <div class="row">
         <div class="col-md-12 text-center">
